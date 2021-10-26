@@ -1,0 +1,14 @@
+body{
+   text-align: center;
+   font-family: 'Lato', sans-serif;
+}
+.content{
+    border-left: 7px rgb(70, 70, 209) solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start space-between;
+    align-items: center;
+}
+.content:hover{
+    border-left: 10px rgb(17, 133, 17) solid;
+}
